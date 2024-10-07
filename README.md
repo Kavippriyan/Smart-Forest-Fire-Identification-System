@@ -1,0 +1,1 @@
+# Smart-Forest-Fire-Identification-System
